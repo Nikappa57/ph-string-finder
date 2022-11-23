@@ -4,6 +4,8 @@ This simple string finder was made in March 2020.
 
 It allows you to find strings released by a program in a third-party process using [Process Hacker](https://processhacker.sourceforge.io).
 
+**latest version** [**here**](https://github.com/Nikappa57/ph-string-finder-2)
+
 > **How to use**
 
 *   Clones this repository into a folder.
