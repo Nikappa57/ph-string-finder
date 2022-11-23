@@ -1,0 +1,24 @@
+.exe
+.txt
+C:\
+\WINDOWS\system32\
+\Device\\HarddiskVolume4\
+rddiskVolume4\\Windows
+na	CTRL+M 
+esults.txt
+ Explorer
+ocumento di testo
+I&ncolla	CTRL+V
+Spostare questo file nel Cestino?
+questa operazione per tutti gli elementi correnti
+&Trova...	CTRL+F
+gli strumenti livello superiore
+Salva con nome
+rocess
+Spostare questo file nel Cestino?
+ocumento di testo
+Save...
+nicode
+Pr&edefinite
+sage window
+&scen
