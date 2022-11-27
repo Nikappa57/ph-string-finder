@@ -6,7 +6,7 @@ It allows you to find strings released by a program in a third-party process usi
 
 **latest version** [**here**](https://github.com/Nikappa57/ph-string-finder-2)
 
-## How to use**
+## How to use
 
 *   Clones this repository into a folder.
 *   Choose the process in which you want to search for strings.
