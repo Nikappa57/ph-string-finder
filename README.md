@@ -1,4 +1,4 @@
-## Simple Process Hacker String Finder
+# Simple Process Hacker String Finder
 
 This simple string finder was made in March 2020.
 
@@ -6,7 +6,7 @@ It allows you to find strings released by a program in a third-party process usi
 
 **latest version** [**here**](https://github.com/Nikappa57/ph-string-finder-2)
 
-> **How to use**
+## How to use**
 
 *   Clones this repository into a folder.
 *   Choose the process in which you want to search for strings.
@@ -16,7 +16,7 @@ It allows you to find strings released by a program in a third-party process usi
 *   You can choose whether to save the strings of the actual process and then put them in the CheatProcess (optional)
 *   Once you have all your files ready in the respective folders, you can launch the program
 
-```plaintext
+```console
 python3 run.py
 ```
 
